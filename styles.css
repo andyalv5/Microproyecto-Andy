@@ -6,6 +6,18 @@
     box-sizing: border-box;
 }
 
+h2{
+    padding:0.5rem 0rem 0rem 2rem;
+    font-family:'Supermercado One', cursive, sans-serif;
+    font-size: 1.2rem;
+    color: rgb(47, 80, 17);
+}
+h4{
+    padding:0.5rem 0rem 0rem 2rem;
+    font-family:'Supermercado One', cursive, sans-serif;
+    font-size: 1.2rem;
+}
+
 #navBar{
     text-align: center;
 }
@@ -99,5 +111,28 @@
     width: 6.25rem;
     height: 6.25rem;
     border-radius: 3rem;
+}
 
+#experiencia{
+    display: block;
+    margin:0.625rem 1.625rem 1.625rem 1.625rem;
+    background-color:  rgb(231, 244, 255);
+    border-radius: 3rem;
+}
+
+#Fecha{
+    text-align: center;
+    padding:0.5rem 1rem 0.5rem 1rem;
+    font-size: 0.8rem;
+}
+#Trabajo{
+    text-align: center;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border: 0rem 0rem 0rem 2rem;
+    font-size:0.8rem;
+}
+#tel{
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    width: 5.8rem;
+    height: 4rem;
 }
