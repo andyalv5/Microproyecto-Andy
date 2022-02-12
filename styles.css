@@ -272,3 +272,131 @@ h4{
     display: flex;
     flex-direction: row;
 }
+
+
+@media (min-width: 999px) {
+    .Titulo{
+        font-size: 200%;
+    }
+    .Menu > li > a{
+        font-size: 150%;
+        padding: 1rem 1rem; 
+    }
+
+    h2{
+        padding: 1rem 0rem 0rem 3rem;
+        font-size: 2.2rem;
+    }
+
+    h4{
+        padding: 1rem 0rem 0rem 3rem;
+        font-size: 2.2rem;
+    }
+
+    .linea1{
+        display: block; 
+        width: 40rem;
+    }
+    #Carrusel{
+        margin: 0.625rem auto 0.625rem;
+        background-color: black;
+        width: 22.625rem;
+    }
+
+    #slide{
+        margin: 0.625rem auto 0.625rem;
+        padding: 0.625rem 0.625rem 0.625rem 0.625rem;
+        width: 20rem;
+        height: 10rem;
+        display: block;
+    }
+
+    #fotoSexy{
+        display: block; 
+        margin: 3rem 1rem 1rem 4rem;
+        width: 15rem;
+        height: 15rem;
+        border-radius: 12rem;
+    }
+    
+    #pepino{
+        display: block; 
+        margin: 0.625rem auto 0.625rem;
+        width: 4rem;
+        height: 4rem;
+    }
+    
+    #sobreMi{
+        margin: 5.625rem 8.625rem 1.625rem 8.625rem;
+    }
+    
+    #Descripcion{
+        padding: 5rem 3rem 4rem 0rem;
+        font-size: 2rem;
+    }
+    #Descripcion2{
+        display: block; 
+        margin: 2rem 2rem 2rem 4rem;
+        font-size: 1.7rem;
+    }
+
+    .linea2{
+        display: block; 
+        padding: 0.6rem 0.2rem;
+        width: 40rem;
+        margin: 0rem auto 0rem;
+    }
+
+    #Fecha{
+        font-size: 1.4rem;
+    }
+    #Trabajo{
+        font-size: 1.4rem;
+        padding: 0rem 6rem 0rem 6rem;
+    }
+    #tel{
+        margin: 2rem 0rem 0rem 0rem;
+        width: 8.8rem;
+        height: 8rem;
+    }
+
+    #experiencia{
+        margin: 5.625rem 8.625rem 1.625rem 8.625rem;
+    }
+
+    #contactame{
+        margin: 5.625rem 8.625rem 1.625rem 8.625rem;
+    }
+
+    .Formulario{
+        margin: 3rem 5rem 0rem 2rem;
+    }
+
+    #mensaje{
+        height: 18rem;
+        width: 32rem;
+    }
+
+    #formula{
+        width: 32rem;
+    }
+    #formula2{
+        width: 32rem;
+    }
+
+    #contactame{
+        display: block; 
+        margin: 0.625rem 1.625rem 1.625rem 1.625rem;
+        font-family: 'Supermercado One', cursive, sans-serif;
+        background-color:  rgb(248, 236, 255);
+        border-radius: 3rem;
+    }
+    #newflex2{
+        margin: 0rem 0rem 0rem 26rem;
+    }
+    #newflex1{
+        margin: 2rem 0rem -4rem 28rem;
+    }
+
+ }
+
