@@ -273,7 +273,9 @@ h4{
     flex-direction: row;
 }
 
-
+#formulario{
+    margin: 0rem 0rem 0rem 5rem;
+}
 @media (min-width: 999px) {
     .Titulo{
         font-size: 200%;
