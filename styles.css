@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#navBar{
+    text-align: center;
+}
+
+.Menu > li> a{
+    font-size: 0.7rem;
+    display: block;
+    padding: 0.2rem 0.3rem;
+    font-family: 'Supermercado One', cursive, sans-serif;
+    text-decoration: none;
+    color: rgb(47, 80, 17);
+}
+
+.Menu li a:hover{
+    color: rgb(243, 91, 44);
+    transition:all.3;
+}
+
+.Menu>li{
+    display: inline-block;
+    margin: 0.625rem auto 0.625rem;
+    position: relative;
+    list-style: none;
+}
+
+.linea1{
+    display: block;
+    width: 18rem;
+    margin: -0.375rem auto 0.625rem;
+}
+
+.Titulo{
+    text-align: center;
+    margin: 0.625rem auto 0.625rem;
+    font-family: 'Supermercado One', cursive, sans-serif;
+}
+
+#Carrusel{
+    margin: 0.625rem auto 0.625rem;
+    background-color:black ;
+    width: 11.625rem;
+}
+#slide{
+    margin: 0.625rem auto 0.625rem;
+    padding: 0.625rem 0.625rem 0.625rem 0.625rem;
+    width: 9.375rem;
+    height: 6.25rem;
+    display: block;
+}
+
