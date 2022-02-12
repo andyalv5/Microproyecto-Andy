@@ -136,3 +136,24 @@ h4{
     width: 5.8rem;
     height: 4rem;
 }
+
+#Formulario{
+    padding: 6rem 2rem 0rem 0.2rem;
+}
+
+#formula{
+    padding: 0rem 2rem 0rem 0.2rem;
+    display: flex;
+    flex-direction: column;
+}
+#formula2{
+    padding: 0rem 2rem 0rem 0.2rem;
+    display: flex;
+    flex-direction: column;
+}
+#Enviar{
+    display: block;
+    padding: 0rem 1rem 0rem 1.1rem;
+    color: rgb(0, 0, 0);
+    background-color: rgb(217, 178, 226);
+}
