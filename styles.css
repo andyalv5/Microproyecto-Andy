@@ -71,3 +71,23 @@
     border-radius:3rem;
 }
 
+#Descripcion{
+    padding: 0rem 3rem 0rem 3rem;
+    font-size: 0.9rem;
+    text-align: justify;
+    float: right;
+    color: rgb(22, 85, 9);
+}
+
+#Descripcion2{
+    display: block;
+    margin: 1rem 1rem 1rem 1rem;
+    padding: 0rem 0rem 2rem 0rem;
+    font-size: 0.8rem;
+    text-align: justify;
+}
+#flexTry{
+    display: flex;
+    align-content: center;
+    flex-direction: row;
+}
