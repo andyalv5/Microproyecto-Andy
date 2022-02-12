@@ -56,3 +56,18 @@
     display: block;
 }
 
+#pepino{
+    display: block;
+    margin: 0.625rem auto 0.625rem;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+#sobreMi{
+    display: block;
+    margin: 0.625rem 1.625rem 1.625rem 1.625rem;
+    font-family: 'Supermercado One', cursive, sans-serif;
+    background-color:  rgb(236, 255, 242);
+    border-radius:3rem;
+}
+
