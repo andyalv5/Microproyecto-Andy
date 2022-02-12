@@ -72,7 +72,7 @@
 }
 
 #Descripcion{
-    padding: 0rem 3rem 0rem 3rem;
+    padding: 1rem 3rem 0rem 3rem;
     font-size: 0.9rem;
     text-align: justify;
     float: right;
@@ -90,4 +90,14 @@
     display: flex;
     align-content: center;
     flex-direction: row;
+}
+
+#fotoSexy{
+    display: block;
+    float: left;
+    margin: 1rem 1rem 1rem 2rem;
+    width: 6.25rem;
+    height: 6.25rem;
+    border-radius: 3rem;
+
 }
