@@ -157,3 +157,18 @@ h4{
     color: rgb(0, 0, 0);
     background-color: rgb(217, 178, 226);
 }
+
+#conFlex{
+    display: flex;
+}
+#contactame{
+    display: block; 
+    margin: 0.625rem 1.625rem 1.625rem 1.625rem;
+    font-family: 'Supermercado One', cursive, sans-serif;
+    background-color:  rgb(248, 236, 255);
+    border-radius: 3rem;
+}
+.Contacto {
+    list-style-type: none;
+    font-family: 'Supermercado One', cursive, sans-serif;
+}
